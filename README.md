@@ -1,1 +1,2 @@
 # larazamaster
+npm install
